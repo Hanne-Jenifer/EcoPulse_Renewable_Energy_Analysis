@@ -6,13 +6,13 @@
 
 ## 📊 Dashboard Preview
 
-<p align="center"> <img src="https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics/blob/1acd5f07c34a1dc6fc714b255ab367681584421a/Mini%20projects/Renewable%20Energy%20Dashboard%20Overview.png" alt="EcoPulse Power BI Dashboard" width="100%"> </p>
+<p align="center"> <img src="https://github.com/Hanne-Jenifer/EcoPulse_Renewable_Energy_Analysis/blob/5d74bda97a12a8ca4a36ed1fdfd2906793d655a0/Renewable%20Energy%20Dashboard%20Overview.png" alt="Renewable Energy Dashboard Overview" width="100%"> </p>
 
-<p align="center"> <img src="https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics/blob/1acd5f07c34a1dc6fc714b255ab367681584421a/Mini%20projects/Energy%20Consumption%20Analysis.png" alt="EcoPulse Power BI Dashboard" width="100%"> </p>
+<p align="center"> <img src="https://github.com/Hanne-Jenifer/EcoPulse_Renewable_Energy_Analysis/blob/5d74bda97a12a8ca4a36ed1fdfd2906793d655a0/Energy%20Consumption%20Analysis.png" alt="Energy Consumption Analysis" width="100%"> </p>
 
-<p align="center"> <img src="https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics/blob/1acd5f07c34a1dc6fc714b255ab367681584421a/Mini%20projects/Energy%20Performance%20Analytics.png" alt="EcoPulse Power BI Dashboard" width="100%"> </p>
+<p align="center"> <img src="https://github.com/Hanne-Jenifer/EcoPulse_Renewable_Energy_Analysis/blob/5d74bda97a12a8ca4a36ed1fdfd2906793d655a0/Energy%20Performance%20Analytics.png" alt="Energy Performance Analytics" width="100%"> </p>
 
-<p align="center"> <img src="https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics/blob/1acd5f07c34a1dc6fc714b255ab367681584421a/Mini%20projects/Operational%20Performance%20Analytics.png" alt="EcoPulse Power BI Dashboard" width="100%"> </p>
+<p align="center"> <img src="https://github.com/Hanne-Jenifer/EcoPulse_Renewable_Energy_Analysis/blob/0e0fd3843c4563d352ec4fb927349d2329eba668/Operational%20Performance%20Analysis.png" alt="Operational Performance Analysis" width="100%"> </p>
 
 The Power BI dashboard provides an interactive overview of energy consumption, renewable energy performance, and operational performance. The dashboard includes dedicated analytical views for **Energy Consumption Behavior**, **Renewable Energy Performance**, and **Operational Performance**.  
 
